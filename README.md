@@ -4,8 +4,10 @@
 
 ## Fecha
 
-> Lunes 13 de Abril de 2020
+> Viernes 1 de Mayo de 2020
 
 ## Centro educativo
 
 > IES Luis Velez de Guevara
+
+Fin de documentación
